@@ -2,7 +2,7 @@
 
 /**
  * main - sum of natural numbers below 10 and are multiples of 5
- * Return: void
+ * Return: 0
  */
 
 int main(void)
@@ -17,4 +17,6 @@ int main(void)
 	}
 
 	printf("%d\n", sum);
+	return (0);
 }
+
